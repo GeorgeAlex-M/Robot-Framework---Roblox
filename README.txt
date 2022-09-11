@@ -10,7 +10,7 @@
 // under Section 7 of the GPL. See the GNU General Public License in LICENSE.TXT
 // distributed with this program. You should have received a copy of the
 // GNU General Public License along with permitted additional restrictions
-// with this program. If not, see https://github.com/GeorgeAlex-M/Roblox
+// with this program. If not, see https://github.com/GeorgeAlex-M/Robot-Framework---Roblox
 
 /***********************************************************************************************
  ***               C O N F I D E N T I A L  ---  U N R E A L  S O F T W A R E                ***
