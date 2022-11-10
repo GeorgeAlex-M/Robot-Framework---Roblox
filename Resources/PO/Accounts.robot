@@ -15,7 +15,7 @@ ${SIGN UP TITLE}  Roblox
 
 # TP_3
 ${LOGIN EMAIL}  gmanea@roblox.com
-# ${LOGIN USERNAME}  fuck
+# ${LOGIN USERNAME}  xxxxxxxx
 
 *** Keywords ***
 # TP_1
