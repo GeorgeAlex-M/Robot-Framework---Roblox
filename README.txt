@@ -28,6 +28,17 @@
  *                                                                                             *
  *---------------------------------------------------------------------------------------------*
 
+This repository is a sample of using BDD technique with Robot Framework. The scripts will 
+be run on the web version of Roblox. One script will go through the register form and create
+10 accounts, and the other will run through the messages inbox flow and send custom messages
+to a user. The messages are specially crafted in a way so that simplistic abc123 kind of test 
+data will be avoided.
+
+Video samples:
+1. First test ; Using spotify :P -- https://youtu.be/F90YmVWlJwY
+2. Second ; Messages -- https://youtu.be/DfgG1azwYDg
+3. Third ; Accounts generator -- https://youtu.be/4d9BaBjkiP0
+
 Behavior-Driven Development (BDD)
 
 TDD works very well at the unit level, but the tests still reflect the developer's
